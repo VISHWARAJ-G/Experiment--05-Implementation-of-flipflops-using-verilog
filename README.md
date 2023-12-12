@@ -226,11 +226,17 @@ endmodule
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 #### SR_Flipflop
+![SR Output](https://github.com/VISHWARAJ-G/Experiment--05-Implementation-of-flipflops-using-verilog/assets/140417431/43346722-f6e3-40b8-94a1-26d18c9a1d24)
 
 #### JK_Flipflop
+![JK Output](https://github.com/VISHWARAJ-G/Experiment--05-Implementation-of-flipflops-using-verilog/assets/140417431/289a7614-9bd2-42f3-a5cf-d5b22c16993b)
 
 #### D_Flipflop
+![D_flipflop Output](https://github.com/VISHWARAJ-G/Experiment--05-Implementation-of-flipflops-using-verilog/assets/140417431/1884cad1-afec-4011-b09e-11fde10def62)
 
 #### T_Flipflop
+![T_flipflop Output](https://github.com/VISHWARAJ-G/Experiment--05-Implementation-of-flipflops-using-verilog/assets/140417431/a120822a-f77c-454c-87ee-568ed8e950fa)
 
 ### RESULTS 
+
+By this we have verified the truth table of JK and SR using verilog.
