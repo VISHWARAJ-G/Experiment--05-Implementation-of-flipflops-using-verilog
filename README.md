@@ -13,7 +13,8 @@ This circuit has two inputs S & R and two outputs Qt & (Qt)’. The operation of
 The following table shows the state table of SR flip-flop.
 
 
-![image](https://user-images.githubusercontent.com/36288975/167910648-ced88e69-869c-42e2-9718-a285a3902446.png)
+![image](![Screenshot (96)](https://github.com/VISHWARAJ-G/Experiment--05-Implementation-of-flipflops-using-verilog/assets/140417431/5cf112ee-d19e-4425-ab76-9bd089bba1cc)
+)
 
 
 Here, Qt & Qt+1 are present state & next state respectively. So, SR flip-flop can be used for one of these three functions such as Hold, Reset & Set based on the input conditions, when positive transition of clock signal is applied. The following table shows the characteristic table of SR flip-flop.
