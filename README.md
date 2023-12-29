@@ -239,4 +239,4 @@ endmodule
 
 ### RESULTS 
 
-By this we have verified the truth table of JK and SR using verilog.
+By this we have verified the truth table of JK,SR,T,D Flipflops using verilog.
